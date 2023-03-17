@@ -1,5 +1,4 @@
-	
-Hi there
+
 # Project Title
 American Sign Language Recognition Using CNN,ResNet50 and VGG16
 
